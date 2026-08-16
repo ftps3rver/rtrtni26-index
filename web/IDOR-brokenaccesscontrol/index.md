@@ -5,3 +5,5 @@ Pas parameter diubah menjadi `id=4`, aplikasi langsung menampilkan note milik ad
 Jadi simpelnya, celahnya ada di **broken access control pada parameter `id`**. Server cuma mengambil data berdasarkan ID yang dikirim user tanpa memastikan apakah note tersebut memang boleh diakses oleh user yang sedang login.
 
 Dari `id=4` inilah note rahasia administrator berhasil kebuka dan flag `RTRTNI26{...}` bisa didapatkan.
+
+![Administrator Secret](images/administrator-secret.png)
