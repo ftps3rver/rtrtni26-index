@@ -1,2 +1,2 @@
 # rtrtni26-index
-wu gabut ga jelas ini
+Writeup seadanya beserta POC dan langkah-langkah nya
