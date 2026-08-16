@@ -32,3 +32,5 @@ Berikut tinggal submit hasil yg dianalisis `challenge.pcap`:
 ![Investigation Result 1](result-1.png)
 
 ![Investigation Result 2](result-2.png)
+
+![Investigation Result 3](result-3.png)
